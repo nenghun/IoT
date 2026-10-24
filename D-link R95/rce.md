@@ -394,7 +394,7 @@ if __name__ == "__main__":
 > - Every request needs `User-Agent` / `Referer`, otherwise 403.
 > - Run with `python3 -u`; if the run is killed by a timeout, recover results from the `/www` markers.
 
-![image-20261018004223531](.\image-20261018004223531.png)
+![image-20261018004223531](./image-20261018004223531.png)
 
 ### Emulation notes
 
