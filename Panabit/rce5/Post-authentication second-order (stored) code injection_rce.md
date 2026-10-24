@@ -108,6 +108,6 @@ $ ls -l /tmp/qtest/CRONRCE /tmp/qtest/CRONRCE2
 
 ```
 
-![image-20261017184255724](.\image-20261017184255724.png)
+![image-20261017184255724](./image-20261017184255724.png)
 
 The injected command executed inside the **root resident daemon**, with output retrievable. Only non-destructive commands (`id` / `echo` / `cp`) were used; no reboot/restore/upgrade was invoked.
