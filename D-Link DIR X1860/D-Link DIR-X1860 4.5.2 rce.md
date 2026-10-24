@@ -322,7 +322,7 @@ for _ in range(40):
         break
 ```
 
-![image-20261017234852236](.\image-20261017234852236.png)
+![image-20261017234852236](./image-20261017234852236.png)
 
 # Reproduction Result
 
