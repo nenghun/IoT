@@ -79,7 +79,7 @@ Response: `-rw-r--r-- 1 root root 39 /tmp/RPT_E` (root-owned, written successful
 cat /tmp/RPT_E
 ```
 
-![image-20261017180514515](.\image-20261017180514515.png)
+![image-20261017180514515](./image-20261017180514515.png)
 
 ## Impact
 
