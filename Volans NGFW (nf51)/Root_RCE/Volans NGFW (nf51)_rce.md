@@ -118,7 +118,7 @@ if __name__ == "__main__":
     print(run(cmd))
 ```
 
-![image-20261016210621238](.\image-20261016210621238.png)
+![image-20261016210621238](./image-20261016210621238.png)
 
 ### Additional verification — five equivalent constructs
 
