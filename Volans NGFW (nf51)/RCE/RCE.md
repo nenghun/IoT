@@ -174,7 +174,7 @@ Dynamic verification evidence (verbatim from the verification run):
 
 > Reproduction must run as **root** (`sudo -i`): `/tmp/fxharness`, `/tmp/qtest` and `/disk` are root-owned, and running as root makes `id` print `uid=0(root)` to match the device's root context (the device's `webserver.conf` has no privilege drop; lighttpd/php-cgi runs as root).
 
-> ![image-20261017160712448](.\image-20261017160712448.png)
+> ![image-20261017160712448](./image-20261017160712448.png)
 >
 > 
 
