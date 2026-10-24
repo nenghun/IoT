@@ -76,7 +76,7 @@ Response: `{ "code": 0, "msg": "操作成功", "data": "" }` (indistinguishable 
 cat /tmp/RPT_C1
 ```
 
-![image-20261017180210709](.\image-20261017180210709.png)
+![image-20261017180210709](./image-20261017180210709.png)
 
 ## Impact
 
