@@ -97,7 +97,7 @@ curl -sk -b "$CK" "https://127.0.0.1:18443/cgi-bin/sac/ajax_sac_ap" -d 'action=l
 
 Expected: `trigger_http=200`, then the marker file appears (see Reproduction Result).
 
-![image-20261017182446579](.\image-20261017182446579.png)
+![image-20261017182446579](./image-20261017182446579.png)
 
 ## Impact
 
@@ -131,4 +131,4 @@ ls: cannot access '/tmp/qtest/del_a.txt': No such file or directory
 
 The code executed as root with retrievable output. Only non-destructive commands (`id`) were used; no reboot/restore/upgrade was invoked, and all planted artifacts were cleaned up after validation.
 
-![image-20261017182541774](.\image-20261017182541774.png)
+![image-20261017182541774](./image-20261017182541774.png)
